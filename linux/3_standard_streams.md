@@ -1,9 +1,9 @@
 # 3 Standard Streams - stdin, stdout, stderr
 
 3 types:    
-1. stdin - #0
-2. stdout - #1
-3. stderr - #2
+1. stdin - 0
+2. stdout - 1
+3. stderr - 2
 
 > They have input and output flow.   
 > The output flow will be connected to the terminal window, connected to a pipe, or redirected to a file or other command.   
